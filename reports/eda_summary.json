@@ -1,0 +1,17 @@
+{
+  "total_customers": 7043,
+  "overall_churn_rate": 26.54,
+  "churn_rate_by_contract": {
+    "Month-to-month": 42.71,
+    "One year": 11.27,
+    "Two year": 2.83
+  },
+  "median_tenure_months": {
+    "retained": 38.0,
+    "churned": 10.0
+  },
+  "median_monthly_charges_usd": {
+    "retained": 64.42500000000001,
+    "churned": 79.65
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "Risk_Segment": "Low Risk",
+    "Probability_Range": "< 30%",
+    "Customer_Count": 579,
+    "Percentage_of_Total": 41.09,
+    "Average_Predicted_Prob": 13.1,
+    "Actual_Churn_Rate": 4.32,
+    "Total_Monthly_Revenue_USD": 29748.3,
+    "Avg_Monthly_Charges_USD": 51.38
+  },
+  {
+    "Risk_Segment": "Medium Risk",
+    "Probability_Range": "30% - 60%",
+    "Customer_Count": 369,
+    "Percentage_of_Total": 26.19,
+    "Average_Predicted_Prob": 44.85,
+    "Actual_Churn_Rate": 23.04,
+    "Total_Monthly_Revenue_USD": 25290.25,
+    "Avg_Monthly_Charges_USD": 68.54
+  },
+  {
+    "Risk_Segment": "High Risk",
+    "Probability_Range": ">= 60%",
+    "Customer_Count": 461,
+    "Percentage_of_Total": 32.72,
+    "Average_Predicted_Prob": 74.92,
+    "Actual_Churn_Rate": 57.27,
+    "Total_Monthly_Revenue_USD": 35262.65,
+    "Avg_Monthly_Charges_USD": 76.49
+  }
+]
